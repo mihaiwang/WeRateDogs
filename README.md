@@ -1,3 +1,6 @@
+### 概述
+在本数据整理项目中，使用python，通过twitter api采集推特用户 [@dog_rates](https://twitter.com/dog_rates)的数据档案，然后评估其质量和整洁度，最后进行清洗。
+
 ### 文件列表
 #### 代码主文件
 - `wrangle_act.ipynb`：用于收集、评估、清洗、分析和可视化数据的代码
